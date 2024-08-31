@@ -8,7 +8,7 @@
 
 **Dan The Bird** is a beginner-friendly, endless, Flappy Bird-inspired game made using JerryScript. Guide Dan through a series of walls by moving up and down. The challenge? The walls keep coming, and your reflexes will be put to the test!
 
-![Dan The Bird](path/to/screenshot.png)  
+![Dan The Bird](path/to/screenshot.jpg)  
 *Screenshot of Dan The Bird in action.*
 
 ## 🚀 How to Play
